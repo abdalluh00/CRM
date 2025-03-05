@@ -49,7 +49,7 @@
         "nnjeim/world": "^1.1",
         "nordigen/nordigen-php": "^1.1",
         "omnipay/paypal": "^3.0",
-        "owen-it/laravel-auditing": "^13.7",
+        "owen-it/laravel-auditing": "^14.0",
         "php-open-source-saver/jwt-auth": "^2.8",
         "pragmarx/google2fa": "^8.0",
         "spatie/laravel-permission": "^6.15",
