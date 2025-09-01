@@ -3948,16 +3948,16 @@
         },
         {
             "name": "nnjeim/world",
-            "version": "1.1.33",
+            "version": "1.1.36",
             "source": {
                 "type": "git",
                 "url": "https://github.com/nnjeim/world.git",
-                "reference": "4fb2bf0689103b743dc345fc85671cc4d8d76913"
+                "reference": "8fa772544024f40ca0d92e333314c21041d81ec4"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/nnjeim/world/zipball/4fb2bf0689103b743dc345fc85671cc4d8d76913",
-                "reference": "4fb2bf0689103b743dc345fc85671cc4d8d76913",
+                "url": "https://api.github.com/repos/nnjeim/world/zipball/8fa772544024f40ca0d92e333314c21041d81ec4",
+                "reference": "8fa772544024f40ca0d92e333314c21041d81ec4",
                 "shasum": ""
             },
             "require": {
@@ -4008,9 +4008,9 @@
             ],
             "support": {
                 "issues": "https://github.com/nnjeim/world/issues",
-                "source": "https://github.com/nnjeim/world/tree/1.1.33"
+                "source": "https://github.com/nnjeim/world/tree/1.1.36"
             },
-            "time": "2025-02-07T06:09:43+00:00"
+            "time": "2025-08-21T03:36:01+00:00"
         },
         {
             "name": "nordigen/nordigen-php",
@@ -11758,12 +11758,12 @@
     ],
     "aliases": [],
     "minimum-stability": "stable",
-    "stability-flags": [],
+    "stability-flags": {},
     "prefer-stable": true,
     "prefer-lowest": false,
     "platform": {
         "php": "^8.2"
     },
-    "platform-dev": [],
+    "platform-dev": {},
     "plugin-api-version": "2.6.0"
 }
